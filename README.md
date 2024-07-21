@@ -1,5 +1,8 @@
 # funcname
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/goaux/funcname.svg)](https://pkg.go.dev/github.com/goaux/funcname)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/funcname)](https://goreportcard.com/report/github.com/goaux/funcname)
+
 `funcname` is a Go package that provides utility functions for retrieving and
 manipulating function names. It offers various methods to obtain function names
 from different contexts, such as runtime program counters, interface values,
